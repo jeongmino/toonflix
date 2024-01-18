@@ -63,7 +63,7 @@ class App extends StatelessWidget {
                   height: 5,
                 ),
                 const Text(
-                  '\$5 194 482',
+                  '\$6,194,482',
                   style: TextStyle(
                     fontSize: 48,
                     fontWeight: FontWeight.w600,
